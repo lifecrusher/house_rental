@@ -277,9 +277,6 @@ a:active {
     }
 
     .image_icons {
-         /* flex-direction: column; */
-         /* flex-wrap: wrap; */
-         /* gap: 10px;  */
          display: grid;
          grid-template-columns: 1fr 1fr;
         
@@ -314,22 +311,13 @@ a:active {
         font-size: 25px;
     } 
 
-    /* .future_p-text {
-        font-size: 20px;
-    } */
-
     .feature_h-text {
-        font-size: 30px;
-        /* line-height: 40px; */
-        /* text-align: center;
-        margin: 15px; */
-        
+        font-size: 30px;   
     }
 
     .future_p-text {
         font-size: 25px;
         line-height: 35px;
-        /* text-align: center; */
         width: 100%;   
     }
 
@@ -337,35 +325,18 @@ a:active {
         width: 60%; 
     }   
 
-    /* .header_text {
-        font-size: 20px;
-        line-height: 20px;
-  
-    } 
-
-     .p-text {
-        font-size: 10px;
-           
-    }   */
-
-    
     .banner_section-text .header_text {
         font-size: 30px;
-        line-height: 30px;
+        line-height: 40px;
         width: 80%;
     }
     
     .p-text {
-margin-top: 10px;
+        margin-top: 15px;
         font-size: 1.4rem;
         line-height: 30px;
-        width: 80%;
-    }
-
-    
-
-
-      
+        width: 95%;
+    }     
 
 }
 
@@ -380,8 +351,6 @@ margin-top: 10px;
         display: block;
     }
 
-
-
     .banner_section img {
         width: 100%;
         height: 100vh;
@@ -394,17 +363,17 @@ margin-top: 10px;
         padding: 20px;
         border-top-right-radius: 30px;
         border-bottom-right-radius: 30px
-     
     } 
     
     .banner_section-text .header_text {
-        font-size: 30px;
+        font-size: 20px;
         line-height: 30px;
-        width: 80%;
+        width: 60%;
+        
     }
     
     .p-text {
-margin-top: 10px;
+        margin-top: 10px;
         font-size: 0.8rem;
         line-height: 20px;
         width: 80%;
@@ -419,16 +388,13 @@ margin-top: 10px;
         font-size: 28px;
         line-height: 20px;
         text-align: center;
-     
     }
-
 
     .feature_h-text {
         font-size: 30px;
         line-height: 40px;
         text-align: center;
-        margin: 15px;
-        
+        margin: 15px;    
     }
 
     .future_p-text {
