@@ -68,10 +68,11 @@ a:active {
 }
 
  .header_text {
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 700px;
     line-height: 40px;
     color: #181A18;
+    margin: 2%;
     
 } 
 
