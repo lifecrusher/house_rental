@@ -67,17 +67,18 @@ a:active {
     border-bottom-right-radius: 60px
 }
 
-.header_text {
-    font-size: 52px;
+ .header_text {
+    font-size: 40px;
     font-weight: 700px;
-    line-height: 60px;
+    line-height: 40px;
     color: #181A18;
-}
+    
+} 
 
 .p-text {
     font-size: 18px;
     font-weight: 400px;
-    line-height: 24px;
+    line-height: 20px;
     color: #181A18;
 }
 
@@ -326,7 +327,7 @@ a:active {
     }   
 
     .banner_section-text .header_text {
-        font-size: 30px;
+        font-size: 40px;
         line-height: 40px;
         width: 80%;
     }
